@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "wifi")
+            Image(systemName: "network")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
